@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @keepcalmshithappens
-- 🌱 Currently working on web programming with React and Django.  
-- 💞️ Currently studying Software Engineering at Linköping University. 
-- 📫 How to reach me: git me pls
+Hi, I’m @JorunnJ! 
+
+I study software engineering at Linköpings university. My GitHub repositories are a mix of serious projects that I've made for courses at University, and small personal projects that I've worked on. 
 
 <!---
 keepcalmshithappens/keepcalmshithappens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
